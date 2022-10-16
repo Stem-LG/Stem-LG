@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stem-LG
+- 👋 Hi, I’m Louay Ghanney
 - 👀 I’m interested in all things tech-related
 - 🌱 I’m currently learning gui development with flutter
 - 💞️ I’m looking to collaborate on any project
