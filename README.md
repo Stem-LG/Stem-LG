@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Louay Ghanney
 - 👀 I’m interested in all things tech-related
-- 🌱 I’m currently learning gui development with flutter
-- 💞️ I’m looking to collaborate on any project
+- 🌱 I’m currently learning some Backend Frameworks
+- 💞️ I’m looking to collaborate on projects
 - 📫 discord: Stem#1287
 
 <!---
