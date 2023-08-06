@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Louay Ghanney
 - 👀 I’m interested in all things tech-related
-- 🌱 I’m currently learning some Backend Frameworks
 - 💞️ I’m looking to collaborate on projects
-- 📫 discord: Stem#1287
+- 📫 portfolio: www.louay.tn
 
 <!---
 Stem-LG/Stem-LG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
